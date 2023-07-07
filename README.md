@@ -1,7 +1,7 @@
 # BaclinkProject
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/todolist_proje/">Todo List</a>
+<a href="https://melihkocc.github.io/BaclinkProject/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
@@ -10,7 +10,7 @@
 · JavaScript
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/backlink.png.png)
 
 ## Contact
 📧 --> kocmelih20@gmail.com <br><br>
