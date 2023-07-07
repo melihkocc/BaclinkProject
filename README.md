@@ -10,7 +10,7 @@
 · JavaScript
 
 ## Screenshots
-![Example screenshot](./images/backlink.png.png)
+![Example screenshot](./images/backlink.png)
 
 ## Contact
 📧 --> kocmelih20@gmail.com <br><br>
